@@ -995,7 +995,7 @@ bitquick:
 
 justcoin:
   label: Justcoin Exchange
-  countries: [al, ad, be, ba, bg, dk, ee, fi, fr, fo, gi, gl, gg, gr, ie, is, im, it, je, hr, cy, lv, li, lt, lu, mk, mt, mu, mc, me, nl, no, pl, pt, ro, sm, rs, sk, si, es, uk, ch, se, cz, tn, tr, de, hu, at, us, ca, au, nz, br, cr, mx, za]
+  countries: [no]
   location: [no]
   icon: https://justcoin.com/favicon.png
   url: https://justcoin.com
