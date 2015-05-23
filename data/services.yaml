@@ -964,7 +964,7 @@ kraken:
   icon: https://www.kraken.com/img/favicon.png
   url: https://www.kraken.com/
   content: |<p>Kraken is a fully compliant, Forex-style trading site with its own market of buyers and sellers, offering full customer support and high account security. Offers EUR, and USD deposits/withdrawals via wire transfer or SEPA. </p>
-  coins: [btc]
+  coins: [btc, ltc, nmc, xrp, EUR, JPY, USD, KRW, GBP]
 
 24change:
   label: 24change
@@ -1020,7 +1020,7 @@ btcchina:
   label: BTCChina
   url: https://btcchina.com/
   content: A major Bitcoin exchange based in China.
-  coins: [btc]
+  coins: [btc, CNY
 
 giftcarddrainer:
   label: GiftCard Drainer
@@ -1107,14 +1107,14 @@ bitcoinindonesia:
   content: You can easily buy/sell bitcoin with Indonesia Currency, Rupiah. We accept bank transfer from BCA and Bank Mandiri.
   coins: [btc]
 
-bitmorecoin:
-  label: bitmorecoin
-  countries: [uk]
-  location: [uk]
+bitpesa:
+  label: bitpesa
+  countries: [co, tz]
+  location: [co]
   icon: /favicon.png
-  url: http://www.bitmorecoin.com/
-  content: One of the difficulties people who want to buy Bitcoin regularly face, is the several day time period that it takes before the buyer sees their Bitcoin in their personal wallet. Since we are based in the UK, we can have your Bitcoin to you within the hour.
-  coins: [btc]
+  url: https://www.bitpesa.co/
+  content: Bitcoin to Kenya and Tanzania. M-Pesa.
+  coins: [btc, KES, KSH, TZS, TSZ]
 
 bitquickindia:
   label: BitQuick.in
@@ -1323,15 +1323,15 @@ bitgo:
     <p>חברת ביטגו טק בע"מ הינה חברה ישראלית שהוקמה בשנת 2013 ע"י שלושה יזמים ישראלים ששמו לעצמם למטרה להפיץ את הביטקוין בישראל, ולתת מענה קל ונוח לצורך ההולך וגובר של הקהל הישראלי לקנות ולמכור ביטקוינים.</p>
   coins: [btc]
 
-cryptocash:
-  label: CryptoCash
+muabitcoin:
+  label: muabitcoin
   countries: [vn]
   location: [vn]
   icon: /favicon.png
-  url: http://www.crypto-cash.co
+  url: http://muabitcoin.com/
   content: |
     <p>Vietnamese</p>
-  coins: [btc]
+  coins: [btc, VND]
 
 cashintocoins:
   label: Cash Into Coins
